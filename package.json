@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/bestteam2/",
+    "build": "vite build --base=/js_101_Psyche-1/",
     "preview": "vite preview"
   },
   "devDependencies": {
